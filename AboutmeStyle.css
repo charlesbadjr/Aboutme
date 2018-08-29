@@ -1,0 +1,91 @@
+
+.top{
+    Background-color: #4D4D4D;
+    display: flex;
+    justify-content: space-between;
+    Width: 100%;
+    Height: 95px;
+}
+#skydive{
+    height: 85px;
+    width: 85px;
+    Padding: 5px;
+}
+li:active,{
+    color: lightblue;
+}
+li:hover{
+    color: black;
+font-weight: bolder;
+}
+
+.AMBODY {
+    background: linear-gradient(45deg, lightblue 20%, rgba(0, 132, 255, 0.541) 17%, rgba(0, 77, 128, 0.788) 15%);
+}
+
+#h2 {
+    text-align: center;
+}
+
+.content {
+    height: 95;
+    width: 100%;
+    margin: auto;
+    font-size: 5em;
+    color: white;
+    background: blue;
+    border-radius: 6px
+}
+.content: hover {
+    height: 80;
+    width: 100%;
+}
+
+#Charlie {
+    margin: auto;
+    width: 50%;
+}
+
+.maincontent {
+    text-align: left;
+    font-size: 1em;
+}
+
+#motto {
+    text-align: center;
+    font-size: 2em;
+}
+#listtitle {
+    text-align: left;
+    font-size: 1em;
+    padding: 10px;
+}
+
+.Gallery{
+    display: flex;
+    justify-content: center;
+
+}
+
+#Cpic{
+    height: 40%;
+    width: 30%;
+}
+
+.social {
+    height: 50px;
+    width: 50px;
+}
+
+.story{
+    background-color: transparent;
+    padding: 45px;
+}
+
+.footer {
+    Background-color: #4D4D4D;
+    display: flex;
+    justify-content: space-between;
+    Width: 100%;
+    Height: 115px;
+}
